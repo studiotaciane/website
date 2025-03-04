@@ -3,15 +3,15 @@
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo_darkmode = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "160px"
-logo_height = "32px"
+logo_width = "90px"
+logo_height = "90px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Studio Taciane Ferreira"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -20,9 +20,9 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/xdkaeplk" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-FQVR6DDSMZ" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
@@ -31,14 +31,14 @@ custom_script = ""
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
 enable = true
-label = "Free Consultation"
-link = "https://calendly.com/nextcloudsteps-support/30min"
+label = "Agende sua consulta"
+link = "https://calendly.com/studiotaciane/30min"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -61,11 +61,11 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+keywords = ["Desing de sobrancelhas", "Micropigmentação", "Sobrancelhas em Mogi Guaçu", "Studio Taciane Ferreira"]
+description = "Com mais de 15 anos de tradição, o Studio Taciane Ferreira é o destino ideal para realçar a beleza natural do seu rosto. Localizado no coração de Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
+author = "Studio Taciane Ferreira | Mogi Guaçu"
+twitter = ""
+image = "images/og-image.jpg"
 
 
 # site verifications

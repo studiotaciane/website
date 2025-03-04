@@ -1,52 +1,37 @@
 ---
 # Banner
 banner:
-  title: "Next Cloud Steps: Optimizing Your Web Journey"
-  content: "Empowering small and medium businesses to streamline their web applications, reduce costs, and boost performance. Your next step to a smarter cloud setup starts here."
-  image: "/images/banner.png"
+  title: "Studio Taciane Ferreira"
+  content: "Transforme seu olhar com a Studio Taciane Ferreira, referência em Design de Sobrancelhas e Micropigmentação em Mogi Guaçu!"
+  image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started Today"
-    link: "https://calendly.com/nextcloudsteps-support/30min"
+    label: "Fale Conosco"
+    link: "https://wa.me/+5519996422479"
 
 # Features
 features:
-  - title: "Transform Your Web Setup"
-    image: "/images/service-1.png"
-    content: "At Next Cloud Steps, we specialize in optimizing your website or web application setup. From cost savings to streamlined workflows, we ensure your business operates at peak efficiency."
+  - title: "Por que escolher o Studio Taciane Ferreira?"
+    image: "/images/service-1.webp"
+    content: "Localizado no coração de Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
     bulletpoints:
-      - "Save on cloud hosting and operational costs."
-      - "Automate CI/CD pipelines for faster deployments."
-      - "Run benchmarks to identify and resolve bottlenecks."
-      - "Improve performance and reliability for end-users."
-      - "Tailored solutions for small and medium businesses."
-    button:
-      enable: false
-      label: ""
-      link: ""
-
-  - title: "Comprehensive Training for Your Team"
-    image: "/images/service-2.png"
-    content: "Equip your software engineers with the skills they need to maintain and grow your digital infrastructure."
-    bulletpoints:
-      - "Hands-on training for modern CI/CD tools."
-      - "Best practices for web performance optimization."
-      - "Custom workshops tailored to your business needs."
+      - "Desde 2009, o Studio Taciane Ferreira construiu uma reputação sólida em Mogi Guaçu"
+      - "Nossa equipe é composta por profissionais com nível superior de graduação (bacharel) em estética"
+      - "Somos apaixonados por sobrancelhas! Nossa expertise em design de sobrancelhas e micropigmentação nos permite criar resultados incríveis, que valorizam o seu olhar e a sua autoestima."
     button:
       enable: true
-      label: "Learn More"
-      link: "/services"
+      label: "Confira nossos serviços"
+      link: "https://www.instagram.com/tacianeferreira.estetica/"
 
-  - title: "Achieve Business Goals with Expert Consulting"
-    image: "/images/service-3.png"
-    content: "We work closely with your team to identify opportunities, implement solutions, and achieve measurable results."
+  - title: "Agende Agora!"
+    image: "/images/service-2.webp"
+    content: "Está esperando o quê para ter as sobrancelhas dos seus sonhos? Agende agora mesmo sua avaliação gratuita no Studio Taciane Ferreira e descubra como podemos transformar o seu olhar!"
     bulletpoints:
-      - "Deep dives into your current setup with actionable insights."
-      - "Custom roadmaps to meet your business goals."
-      - "Ongoing support to ensure sustainable success."
-      - "Stay ahead with cutting-edge technology."
+      - "Horários flexíveis para atender a sua agenda."
+      - "Atendimento personalizado e exclusivo."
+      - "Ambiente aconchegante e seguro."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Agendar"
+      link: "https://wa.me/+5519996422479"
 ---

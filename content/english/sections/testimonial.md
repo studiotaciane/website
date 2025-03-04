@@ -1,30 +1,29 @@
 ---
 enable: true
-title: "What Clients Are Saying About Next Cloud Steps"
-description: "Don't just take our word for it - hear from some of our satisfied clients! Check out their testimonials below to see how Next Cloud Steps helped them optimize their web presence."
-
+title: "O que os Clientes Dizem Sobre o Studio Taciane Ferreira"
+description: "Confira os depoimentos de nossos clientes satisfeitos e descubra como nossos serviços de Design de Sobrancelhas, Micropigmentação e Estética em Mogi Guaçu transformaram a autoestima e realçaram a beleza natural de cada um."
 # Testimonials
 testimonials:
-  - name: "Samantha Lee"
-    designation: "CEO"
+  - name: "Mariana Souza"
+    designation: "Cliente"
     avatar: "/images/avatar-sm.png"
-    content: "Next Cloud Steps transformed our web infrastructure, reducing costs and automating our CI/CD pipeline, which increased our efficiency and productivity."
-
-  - name: "James Harrison"
-    designation: "CTO"
+    content: "No Studio Taciane Ferreira, encontrei a transformação que procurava. Minhas sobrancelhas ficaram perfeitas e harmoniosas!"
+    
+  - name: "Rafael Almeida"
+    designation: "Cliente"
     avatar: "/images/avatar-sm.png"
-    content: "The team at Next Cloud Steps helped us benchmark our system performance and provided invaluable training for our engineers. We saw immediate improvements in both speed and cost-efficiency."
-
-  - name: "Rachel Kim"
-    designation: "Founder"
+    content: "O atendimento é excepcional e a técnica de micropigmentação realçou minha beleza de forma sutil e elegante. Recomendo demais!"
+    
+  - name: "Ana Paula Costa"
+    designation: "Cliente"
     avatar: "/images/avatar-sm.png"
-    content: "Thanks to Next Cloud Steps, we were able to optimize our website and application setup, making it more scalable and reliable, all while saving on operational costs."
-
-  - name: "Alex Martinez"
-    designation: "Product Manager"
+    content: "Depois de anos buscando o design ideal para minhas sobrancelhas, encontrei no Studio Taciane Ferreira o cuidado e a expertise que sempre sonhei."
+    
+  - name: "Carla Martins"
+    designation: "Cliente"
     avatar: "/images/avatar-sm.png"
-    content: "Next Cloud Steps helped us streamline our development process, cutting down deployment times and giving us more time to focus on innovation. The results were immediate and impactful."
-
+    content: "Ambiente acolhedor e profissionais incríveis! Cada sessão eleva minha autoestima e destaca minha beleza natural."
+    
 # don't create a separate page
 _build:
   render: "never"

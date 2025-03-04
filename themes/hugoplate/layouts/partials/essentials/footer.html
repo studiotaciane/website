@@ -1,14 +1,6 @@
 <footer class="bg-theme-light dark:bg-darkmode-theme-light">
   <div class="container">
     <div class="row items-center py-10">
-      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
-        <!-- navbar brand/logo -->
-        <a
-          class="navbar-brand inline-block"
-          href="{{ site.Home.RelPermalink }}">
-          {{ partial "logo" }}
-        </a>
-      </div>
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
         <ul>
           {{ range site.Menus.footer }}
@@ -30,7 +22,7 @@
           {{ end }}
         </ul>
       </div>
-      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
+      <div class="mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
         <ul class="social-icons">
           {{ range site.Data.social.main }}
             <li>
@@ -50,7 +42,8 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div class="text-light dark:text-darkmode-light container text-center">
       <p>
-        {{ site.Params.copyright | markdownify }}
+        Rua Arlindo Cândido Teixeira, n° 19 - Parque Guainco, Mogi Guaçu - SP,
+        13844-283 | Telefone: (19) 99642-2479
       </p>
     </div>
   </div>
