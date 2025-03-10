@@ -12,11 +12,11 @@ banner:
 # Features
 features:
   - title: "Por que escolher o Studio Taciane Ferreira?"
-    image: "/images/service-1.webp"
+    image: "/images/gallery/studio.webp"
     content: "Localizado no coração de Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
     bulletpoints:
-      - "Desde 2009, o Studio Taciane Ferreira construiu uma reputação sólida em Mogi Guaçu"
-      - "Nossa equipe é composta por profissionais com nível superior de graduação (bacharel) em estética"
+      - "Com uma reputação sólida construída desde 2009, o Studio se destaca pela expertise e paixão por sobrancelhas."
+      - "A profissional com nível superior em estética, e aperfeiçoamento ao longo dos anos, dedica-se a criar resultados incríveis, valorizando o olhar e autoestima de cada cliente"
       - "Somos apaixonados por sobrancelhas! Nossa expertise em design de sobrancelhas e micropigmentação nos permite criar resultados incríveis, que valorizam o seu olhar e a sua autoestima."
     button:
       enable: true
@@ -24,7 +24,7 @@ features:
       link: "https://www.instagram.com/tacianeferreira.estetica/"
 
   - title: "Agende Agora!"
-    image: "/images/service-2.webp"
+    image: "/images/gallery/studio2.jpg"
     content: "Está esperando o quê para ter as sobrancelhas dos seus sonhos? Agende agora mesmo sua avaliação gratuita no Studio Taciane Ferreira e descubra como podemos transformar o seu olhar!"
     bulletpoints:
       - "Horários flexíveis para atender a sua agenda."

@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Desing de sobrancelhas", "Micropigmentação", "Sobrancelhas em Mogi Guaçu", "Studio Taciane Ferreira"]
-description = "Com mais de 15 anos de tradição, o Studio Taciane Ferreira é o destino ideal para realçar a beleza natural do seu rosto. Localizado no coração de Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
+description = "Com mais de 15 anos de tradição, o Studio Taciane Ferreira é o destino ideal para realçar a beleza natural do seu rosto. Localizado em um bairro conceituado de Mogi Guaçu, o Studio é especializado em Design de Sobrancelhas e Micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes que buscam excelência."
 author = "Studio Taciane Ferreira | Mogi Guaçu"
 twitter = ""
 image = "images/og-image.jpg"
