@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Studio Taciane Ferreira"
+  title: "Design de sobrancelhas e Micropigmentação | Studio Taciane Ferreira"
   content: "Transforme seu olhar com a Studio Taciane Ferreira, referência em Design de Sobrancelhas e Micropigmentação em Mogi Guaçu!"
   image: "/images/banner.jpg"
   button:
@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Por que escolher o Studio Taciane Ferreira?"
     image: "/images/gallery/studio.webp"
-    content: "Localizado no coração de Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
+    content: "Localizado em Mogi Guaçu, nosso studio é especializado em design de sobrancelhas e micropigmentação, oferecendo serviços personalizados e de alta qualidade para clientes exigentes."
     bulletpoints:
       - "Com uma reputação sólida construída desde 2009, o Studio se destaca pela expertise e paixão por sobrancelhas."
       - "A profissional com nível superior em estética, e aperfeiçoamento ao longo dos anos, dedica-se a criar resultados incríveis, valorizando o olhar e autoestima de cada cliente"
